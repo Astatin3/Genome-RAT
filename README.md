@@ -17,11 +17,9 @@ For your convenience...
   
   6) Choose "Do not display a licence"
   
-  7) Add **YOUR** version of update.bat
+  7) Add code with **YOUR** IP 
   
-    >You may also replace the update.bat file with the installation code for another way of infiltration
-  
-  8) Under Install Program, Type "cmd /c Update.bat", unless you renamed the file then make appropriate changes
+  8) Under Install Program, Type "cmd /c (Progam Name)", unless you renamed the file then make appropriate changes
   
   9) Choose "Hidden"
   
@@ -34,8 +32,6 @@ For your convenience...
   13) Click "Don't save"
   
   14) And PACKAGE!
-  
-  Note: Use this new executable in replacement of update.bat
 
 ---
 ### Copyright CC0 Astatin3
